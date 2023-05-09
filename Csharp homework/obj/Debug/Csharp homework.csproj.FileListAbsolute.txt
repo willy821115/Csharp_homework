@@ -1,0 +1,84 @@
+C:\Users\User\source\repos\Homepage\Csharp homework\bin\Debug\Csharp homework.exe.config
+C:\Users\User\source\repos\Homepage\Csharp homework\bin\Debug\Csharp homework.exe
+C:\Users\User\source\repos\Homepage\Csharp homework\bin\Debug\Csharp homework.pdb
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Homepage.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Properties.Resources.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp homework.exe
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp homework.pdb
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.HelloForm.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.LoanForm.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.LoanFormReport.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.MENU.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Student_structform.resources
+E:\Homepage\Csharp homework\bin\Debug\Csharp homework.exe.config
+E:\Homepage\Csharp homework\bin\Debug\Csharp homework.exe
+E:\Homepage\Csharp homework\bin\Debug\Csharp homework.pdb
+E:\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.AssemblyReference.cache
+E:\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.SuggestedBindingRedirects.cache
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.HelloForm.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Homepage.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.LoanForm.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.LoanFormReport.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.MENU.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Mycalculator.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Properties.Resources.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Student_structform.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.GenerateResource.cache
+E:\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.CoreCompileInputs.cache
+E:\Homepage\Csharp homework\obj\Debug\Csharp homework.exe
+E:\Homepage\Csharp homework\obj\Debug\Csharp homework.pdb
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Guess.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Mycalculator.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.StudentsGrade.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.StudentGradeList.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.XOgame.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Screen_saver.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Drawpaint.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Notepad.resources
+D:\程式課程\Homepage\Csharp homework\bin\Debug\Csharp homework.exe.config
+D:\程式課程\Homepage\Csharp homework\bin\Debug\Csharp homework.exe
+D:\程式課程\Homepage\Csharp homework\bin\Debug\Csharp homework.pdb
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.AssemblyReference.cache
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.SuggestedBindingRedirects.cache
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Drawpaint.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Guess.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.HelloForm.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Homepage.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.LoanForm.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.LoanFormReport.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.MENU.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Mycalculator.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Notepad.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Properties.Resources.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Screen_saver.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.StudentGradeList.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.StudentsGrade.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Student_structform.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.XOgame.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.GenerateResource.cache
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp homework.csproj.CoreCompileInputs.cache
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp homework.exe
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp homework.pdb
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Alarm.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Method.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Alarm.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Method.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.Picture_Viewer.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.Picture_Viewer.resources
+D:\程式課程\Homepage\Csharp homework\obj\Debug\Csharp_homework.GuessDialog.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Alarm.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Drawpaint.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Guess.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.GuessDialog.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Method.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Notepad.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Picture_Viewer.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.Screen_saver.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.StudentGradeList.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.StudentsGrade.resources
+E:\Homepage\Csharp homework\obj\Debug\Csharp_homework.XOgame.resources
+C:\Users\User\source\repos\Homepage\Csharp homework\obj\Debug\Csharp_homework.GuessDialog.resources
